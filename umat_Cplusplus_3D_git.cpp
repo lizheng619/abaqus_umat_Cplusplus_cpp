@@ -1,3 +1,6 @@
+//
+// Coding by Zheng Li, University Gustave Eiffel.
+//
 #include <iostream>
 #include <string>
 #include <omi_for_c.h> // abaqus 2022

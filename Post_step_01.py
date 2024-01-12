@@ -1,3 +1,6 @@
+#
+# Coding by Zheng Li, University Gustave Eiffel.
+#
 from abaqus import *
 from odbAccess import *
 from abaqusConstants import *

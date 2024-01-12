@@ -1,6 +1,9 @@
 clear
 clc
 close all
+%
+% Coding by Zheng Li, University Gustave Eiffel.
+%
 system('del *.asv')
 system('del aba*')
 system('del *.dat')
